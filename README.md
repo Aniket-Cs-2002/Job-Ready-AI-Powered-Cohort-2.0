@@ -11,4 +11,4 @@
 
 ---
 
-✅ **One Cohort. Multiple Skills. Be Future-Ready!**
+>✅ **One Cohort. Multiple Skills. Be Future-Ready!**
