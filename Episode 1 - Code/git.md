@@ -3,7 +3,7 @@
 ---
 
 ## 🧩 Git Workflow Diagram
-Code 🧑‍💻 → Add ➕ → Commit 🧾 → Push 🚀 → Pull Request 🔁 → Merge ✅
+>Code 🧑‍💻 → Add ➕ → Commit 🧾 → Push 🚀 → Pull Request 🔁 → Merge ✅
 
 
 ---
@@ -236,5 +236,5 @@ git push origin new-feature
 ---
 
 ✅ **In Short:**  
-- **Git** = Tracks your code history 🧾  
-- **GitHub** = Helps you collaborate and share your code 🌐
+>- **Git** = Tracks your code history 🧾  
+>- **GitHub** = Helps you collaborate and share your code 🌐
